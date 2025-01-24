@@ -1,0 +1,9 @@
+{
+    "token": "", // сюда свой токен
+    "clientIdentificator": "", // Cюда айди 
+    "mongoDB": "mongodb+srv://nudickgame:iaarrtgor@cluster0.fgeqt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "embedcolor": "#4B0082",
+    "modembed": "#800080",
+    "errorembed": "#FF0000",
+    "owner": "123123" #свой айди
+  }
